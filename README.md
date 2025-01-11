@@ -7,7 +7,9 @@ A simple set of presets templates to convert video for DaVinci Resolve Free and 
 **Davinci Resolve Studio** (the paid version) does not have these limitations, which allows the use of more modern codecs such as H264. This generates smaller and more optimized files, saving processing and storage space.
 
 ---
+
 For comparison, a file exported using the "MPEG 4 - Keep format" preset in Davinci Resolve Free ended up with 12.9Gb, while the same file exported with the "H264 - Keep format" preset generated an 8.5Gb file of similar visual quality.
+
 ---
 
 ## How to use this presets
