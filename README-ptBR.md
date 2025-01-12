@@ -1,7 +1,7 @@
 # Conversor de presets Davinci Resolve para Winff
 
 <p align="center">
-<img width="800px" src="https://github.com/eddiecsilva/nixos-dotfilles/blob/main/resolve-project-thumb.png" align="center" alt="white" /><br><br>
+<img width="800px" src="https://github.com/eddiecsilva/resolve-converter-winff-preset/blob/main/img/resolve-project-thumb.png" align="center" alt="white" /><br><br>
 
 <!-- (site para ícones: https://shields.io/ ) -->
 
