@@ -1,4 +1,17 @@
 # Davinci Resolve presets converter for Winff
+
+<p align="center">
+<img width="800px" src="https://github.com/eddiecsilva/nixos-dotfilles/blob/main/resolve-project-thumb.png" align="center" alt="white" /><br><br>
+
+<!-- (site para ícones: https://shields.io/ ) -->
+ 
+<img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-Yes-green">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eddiecsilva/resolve-converter-winff-preset">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/eddiecsilva/resolve-converter-winff-preset">
+<img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/y/eddiecsilva/resolve-converter-winff-preset">
+
+</p>
+
 A simple set of presets templates to convert video for DaVinci Resolve Free and Studio version on Linux.
 
 # IMPORTANTE NOTICE!
